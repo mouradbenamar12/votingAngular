@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+// noinspection CssInvalidAtRule
+@tailwind base;
+// noinspection CssInvalidAtRulew
+@tailwind components;
+// noinspection CssInvalidAtRule
+@tailwind utilities;
